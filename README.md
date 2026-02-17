@@ -1,5 +1,5 @@
 ![comfyui-easy-use](https://github.com/user-attachments/assets/9b7a5e44-f5e2-4c27-aed2-d0e6b50c46bb)
-
+26.2.17 fork 자료
 <div align="center">
 <a href="https://space.bilibili.com/1840885116">Video Tutorial</a> |
 <a href="https://docs.easyuse.yolain.com">Docs</a> | 
@@ -553,3 +553,4 @@ If my custom nodes has added value to your day, consider indulging in a coffee t
 My gratitude extends to the generous souls who bestow a star. Your support is much appreciated!
 
 [![Stargazers repo roster for @yolain/ComfyUI-Easy-Use](https://reporoster.com/stars/yolain/ComfyUI-Easy-Use)](https://github.com/yolain/ComfyUI-Easy-Use/stargazers)
+
